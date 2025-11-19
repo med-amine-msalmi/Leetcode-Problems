@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/2916-check-if-it-is-possible-to-split-array) |
+| [3374-count-alternating-subarrays](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/3374-count-alternating-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3374-count-alternating-subarrays](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/3374-count-alternating-subarrays) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
