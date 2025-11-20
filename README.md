@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [0507-perfect-number](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [3374-count-alternating-subarrays](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/3374-count-alternating-subarrays) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
