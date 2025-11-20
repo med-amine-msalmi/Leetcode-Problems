@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1019-squares-of-a-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3374-count-alternating-subarrays](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/3374-count-alternating-subarrays) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [1019-squares-of-a-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
