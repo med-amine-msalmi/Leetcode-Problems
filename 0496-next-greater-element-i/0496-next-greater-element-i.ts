@@ -1,15 +1,16 @@
 function nextGreaterElement(nums1: number[], nums2: number[]): number[] {
-    const stack:number[]=[];
+    const Stack:number[]=[];
     const map=new Map<number,number>();
     for(const n of nums2){
-        while(stack.length && n>stack[stack.length-1]){
-            map.set(stack.pop(),n)
+        while(Stack.length && n>Stack[Stack.length-1]){
+            map.set(Stack.pop(),n);
         }
-        stack.push(n);
+        Stack.push(n);
     }
-    for(const n of stack){
+    for(const n of Stack){
         map.set(n,-1);
     }
-    return nums1.map(element=>map.get(element))
 
+    const ans=nums1.map(element=>map.get(element));
+    return ans;
 };
