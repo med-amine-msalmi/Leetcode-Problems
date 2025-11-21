@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/2916-check-if-it-is-possible-to-split-array) |
@@ -96,8 +97,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
