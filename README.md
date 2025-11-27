@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0739-daily-temperatures) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0507-perfect-number](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [3374-count-alternating-subarrays](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/3374-count-alternating-subarrays) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
