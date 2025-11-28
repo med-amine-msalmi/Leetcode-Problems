@@ -3,10 +3,7 @@
  */
 function merge(nums1: number[], m: number, nums2: number[], n: number): void {
 
-    if(m===0){
-     nums2.map((element)=>{nums1[m++]=element})
-     return;
-    }
+ 
     let currentIndex=nums1.length-1;
     let i=m-1;
     let j=n-1;
