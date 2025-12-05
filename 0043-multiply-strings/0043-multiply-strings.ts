@@ -9,15 +9,15 @@ function multiply(nums1: string, nums2: string): string {
                 }
         }
     }
-    let startedIndex=0;
-    let resultStr="";
-    while(startedIndex<result.length-1 && result[startedIndex]==0)
-    {
-        startedIndex++;
+    let multStr="";
+    let skip=true;
+    for(const digit of result){
+        if(skip && digit==0) 
+            continue
+        skip=false;
+        multStr+=digit;
     }
-    console.log(startedIndex);
-    for(;startedIndex<result.length;startedIndex++){
-        resultStr+=result[startedIndex];
-    }
-    return resultStr;
+    if(multStr=="")
+        return "0";
+    return multStr;
 };
