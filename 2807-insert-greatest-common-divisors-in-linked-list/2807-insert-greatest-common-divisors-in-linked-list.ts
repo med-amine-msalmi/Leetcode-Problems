@@ -13,11 +13,10 @@
 function insertGreatestCommonDivisors(head: ListNode | null): ListNode | null {
     //helper function 
     function gcd(num1:number,num2:number){
-        const max=Math.max(num1,num2);
-        const min=Math.min(num1,num2);
-        if(max%min==0)
-            return min;
-        return gcd(min,max%min);
+        
+        if(num2==0)
+            return num1;
+        return gcd(num2,num1%num2);
     }
     if(!head)
         return head;
