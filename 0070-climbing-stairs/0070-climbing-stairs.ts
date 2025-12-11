@@ -1,9 +1,12 @@
 function climbStairs(n: number): number {
-    if(n<2)
+    if(n<=3)
         return n;
-    let climbs:number[]=[1,2];
-    for(let i=2;i<n;i++){
-        climbs.push(climbs[i-1]+climbs[i-2])
+    let twoBack=2;
+    let oneBack=3
+    for(let i=4;i<n;i++){
+        let curr=oneBack;
+        oneBack+=twoBack;
+        twoBack=curr;
     }
-    return climbs[climbs.length-1];
+    return twoBack+oneBack
 };
