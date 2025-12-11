@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Hash Table
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3374-count-alternating-subarrays](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/3374-count-alternating-subarrays) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
