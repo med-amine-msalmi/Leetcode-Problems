@@ -22,14 +22,9 @@ function removeNthFromEnd(head: ListNode | null, n: number): ListNode | null {
     }
     if(length==n)
         return head.next;
-    while(Stack.length!=0){
-        if(index==n){
-            let node=Stack.pop();
-            Stack.pop().next=node.next;
-        }
-        Stack.pop();
-        index++;
-    }
+    
+    let prevnode=Stack[Stack.length-n-1]
+    prevnode.next=prevnode.next.next;
     return head;
 
 };
