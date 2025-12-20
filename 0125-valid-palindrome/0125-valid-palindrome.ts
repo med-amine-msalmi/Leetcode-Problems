@@ -1,11 +1,7 @@
 function isPalindrome(s: string): boolean {
-    function isAlphanumeric(char: string): boolean {
-        const pattern=/[a-zA-Z0-9]/;
-        return pattern.test(char)
-    }
 let result="";
 for(let char of s){
-    if(isAlphanumeric(char))
+    if(/[a-zA-Z0-9]/.test(char))
         result+=char.toLowerCase()
     }
 let left=0;
