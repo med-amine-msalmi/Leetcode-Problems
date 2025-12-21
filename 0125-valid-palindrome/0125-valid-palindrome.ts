@@ -1,17 +1,22 @@
 function isPalindrome(s: string): boolean {
-let result="";
-for(let char of s){
-    if(/[a-zA-Z0-9]/.test(char))
-        result+=char.toLowerCase()
+    function isAlphanumeric(char:string){
+        return /[a-zA-Z0-9]/.test(char);
     }
 let left=0;
-let right=result.length-1;
-console.log(result);
+let right=s.length-1;
 while(left<right){
-    if(result[left]!=result[right])
-        return false;
-    left++;
-    right--;
+   if(!isAlphanumeric(s[left]))
+        left++;
+    else if(!isAlphanumeric(s[right]))
+        right--;
+    else {
+        if(s[left].toLowerCase()!=s[right].toLowerCase()){
+            console.log(left,s.length-right);
+            return false;
+        }
+        right--;
+        left++;
+    }
 }
 return true;
 
