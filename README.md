@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3374-count-alternating-subarrays](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/3374-count-alternating-subarrays) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 ## Tree
 |  |
 | ------- |
