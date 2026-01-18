@@ -180,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+## Concurrency
+|  |
+| ------- |
+| [1195-fizz-buzz-multithreaded](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
