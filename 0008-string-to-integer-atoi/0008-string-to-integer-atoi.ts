@@ -14,7 +14,7 @@ function myAtoi(s: string): number {
 
     // read digits
     while (i < s.length && s[i] >= "0" && s[i] <= "9") {
-        result = result * 10 + (s[i].charCodeAt(0) - 48);
+        result = result * 10 + (Number(s[i]));
         i++;
     }
     result*=sign;
