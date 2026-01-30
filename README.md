@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0739-daily-temperatures) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Hash Table
