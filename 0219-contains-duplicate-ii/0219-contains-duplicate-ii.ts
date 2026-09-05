@@ -1,5 +1,5 @@
 function containsNearbyDuplicate(nums: number[], k: number): boolean {
-    const window = new Set<number>();
+    const window = new Set();
 
     for (let i = 0; i < nums.length; i++) {
         if (window.has(nums[i])) {
