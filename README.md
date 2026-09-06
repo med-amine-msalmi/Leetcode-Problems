@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Linked List
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
