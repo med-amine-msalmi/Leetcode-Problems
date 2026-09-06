@@ -1,11 +1,8 @@
 function singleNumber(nums: number[]): number {
-    let set:Set<number>=new Set();
+    let result=0;
     for(let num of nums){
-        if(set.has(num))
-            set.delete(num)
-        else
-            set.add(num)
+      result=result ^ num;
     }
-    return [...set][0]
+    return result;
     
 };
