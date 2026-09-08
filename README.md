@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
