@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Hash Table
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
