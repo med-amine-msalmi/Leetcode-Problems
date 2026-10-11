@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0412-fizz-buzz) |
