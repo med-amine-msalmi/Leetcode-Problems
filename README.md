@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0739-daily-temperatures](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0890-find-and-replace-pattern](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0977-squares-of-a-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0890-find-and-replace-pattern](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Design
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [0890-find-and-replace-pattern](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
