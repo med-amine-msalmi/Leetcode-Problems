@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/med-amine-msalmi/Leetcode-Problems/tree/master/0412-fizz-buzz) |
