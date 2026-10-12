@@ -13,7 +13,7 @@ function timeLimit(fn: Fn, t: number): Fn {
                 resovle(result)
             }).catch((error)=>{
                 reject(error)
-                clearTimeout(timer)
+              
             })
         })
     }
