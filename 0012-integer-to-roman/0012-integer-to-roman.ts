@@ -18,7 +18,6 @@ function intToRoman(num: number): string {
     for(const key of mappedValues.keys()){
         if(num==0) break;
         while(num >= key){
-            console.log("num:",num ,"key",key)
             romanFormat+=mappedValues.get(key);
             num-=key
         }
